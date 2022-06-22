@@ -1,0 +1,12 @@
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ProjectName.deps.json
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ProjectName.dll
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ref\ProjectName.dll
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\bin\Debug\net5.0\ProjectName.pdb
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.csproj.AssemblyReference.cache
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.AssemblyInfoInputs.cache
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.AssemblyInfo.cs
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.csproj.CoreCompileInputs.cache
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.dll
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ref\ProjectName.dll
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName\obj\Debug\net5.0\ProjectName.pdb

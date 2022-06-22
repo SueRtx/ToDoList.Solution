@@ -1,0 +1,5 @@
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.csproj.AssemblyReference.cache
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.AssemblyInfoInputs.cache
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.AssemblyInfo.cs
+C:\Users\sunyo\Desktop\ProjectName.Solution\ProjectName.Tests\obj\Debug\net5.0\ProjectName.Tests.csproj.CoreCompileInputs.cache
