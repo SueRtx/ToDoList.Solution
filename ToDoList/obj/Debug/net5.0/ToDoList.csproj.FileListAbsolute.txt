@@ -1,0 +1,12 @@
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.deps.json
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.dll
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ref\ToDoList.dll
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\bin\Debug\net5.0\ToDoList.pdb
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.dll
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
+C:\Users\sunyo\Desktop\ToDoList.Solution\ToDoList\obj\Debug\net5.0\ToDoList.pdb
