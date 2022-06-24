@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sunyo\\Desktop\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "C:\\Users\\sunyo\\Desktop\\ProjectName.Solution\\ProjectName\\ProjectName.csproj",
+      "projectUniqueName": "C:\\Users\\sunyo\\Desktop\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+      "projectName": "ToDoList",
+      "projectPath": "C:\\Users\\sunyo\\Desktop\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\sunyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sunyo\\Desktop\\ProjectName.Solution\\ProjectName\\obj\\",
+      "outputPath": "C:\\Users\\sunyo\\Desktop\\ToDoList.Solution\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sunyo\\AppData\\Roaming\\NuGet\\NuGet.Config"

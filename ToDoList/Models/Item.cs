@@ -1,7 +1,9 @@
-namespace ProjectName
+namespace ToDoList.Models
 {
-  public class ClassName
+  public class Item
   {
-    // properties, constructors, methods, etc. go here
+
+    // properties, methods, etc. will go here.
+
   }
 }
