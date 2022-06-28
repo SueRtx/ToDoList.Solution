@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\toDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\toDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\toDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\toDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\sunyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\sunyo\\Desktop\\C#\\ToDoList.Solution\\toDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sunyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
