@@ -18,7 +18,7 @@ public class Program
         string taskToDo = Console.ReadLine();
       Item taskToDoItem = new Item(taskToDo);
       Console.WriteLine($"{taskToDo} was added to your To Do List.");
-      Console.WriteLine("You may choose to finish TO Do List or exit program anytime(Finish/Exit)");
+      Console.WriteLine("You may choose to finish TO Do List or exit program anytime. (Finish/Exit)");
 
       SkipWelcome();
       }
@@ -37,7 +37,7 @@ public class Program
             Console.WriteLine(number + ": " +toDoList[i].Description);
           } 
         }
-        Console.WriteLine("You may choose to finish TO Do List or exit program(Finish/Exit)");
+        Console.WriteLine("You may choose to finish TO Do List or exit program anytime. (Finish/Exit)");
         SkipWelcome();
       }
       else if (addList.ToLower() == "exit")
@@ -48,7 +48,7 @@ public class Program
       {
         Item.ClearAll();
         Console.WriteLine("You've completed all your tasks!");
-        Console.WriteLine("You may choose to finish TO Do List or exit program(Finish/Exit)");
+        Console.WriteLine("You may choose to finish TO Do List or exit program anytime. (Finish/Exit)");
         SkipWelcome();
       }
       else
